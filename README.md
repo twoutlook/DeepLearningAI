@@ -4,10 +4,8 @@
 ## 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice
 
-### in need
-- callback
-  - https://www.coursera.org/learn/introduction-tensorflow/lecture/AIkt8/using-callbacks-to-control-training 
-### Week3
+
+### Week3, 2022/3/13, 實做遇到障礙, 困知勉行, 已知其然, 不完全知其所以然,還是很快樂
 - reshape and normalize
   - 還不確定為何要加一個維度, 雖然按要求加上, 如同 expected 的值
   - 數值是浮點或是整數可以從錯誤信息修正
