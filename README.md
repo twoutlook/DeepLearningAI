@@ -3,9 +3,11 @@
 
 ## 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice
+- done, https://coursera.org/share/a4b22430b8431fd2a819361efb2f6011
+- 練習實做很接地氣, 測驗發現之前的注意沒有到位的地方,評分的實做有變化, 體會課程安排者的用心。整個online環境優質, 免去配置可能的意外, 有利課程順利進行。
+ 
 
-
-### Week3, 2022/3/13, 實做遇到障礙, 困知勉行, 已知其然, 不完全知其所以然,還是很快樂
+### Week3, 2022/3/13, 實做遇到障礙, 困知勉行, 這階段已知其然, 不完全知其所以然,還是很快樂
 - reshape and normalize
   - 還不確定為何要加一個維度, 雖然按要求加上, 如同 expected 的值
   - 數值是浮點或是整數可以從錯誤信息修正
