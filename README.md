@@ -17,7 +17,13 @@
 
 ## 2. Convolutional Neural Networks in TensorFlow
 - https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice
-
+### Week1, 2022/3/20, 基本的 Python 處理 file, size, Random 
+- 要排除不良的樣本, 檔案大小為0
+- 要能夠按比例隨機區分到  training and testing, 
+  - 另有主題在 training and testing 之外還有 validation 
+  - https://developers.google.com/machine-learning/crash-course/validation/video-lecture
+- 上述按比例, 先用隨機值來區分, 和預期的並不完成相同, 因為是隨機數, 大比例是對, 但不會保證額定值百分百一樣。先看提交是否可以通過。
+- 
 ## 3. Natural Language Processing in TensorFlow
 - https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice
 
