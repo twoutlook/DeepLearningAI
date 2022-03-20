@@ -31,6 +31,9 @@
   - https://youtu.be/wjqaz6m42wU NIPS 2016 tutorial: "Nuts and bolts of building AI applications using Deep Learning" by Andrew Ng
 - to fix 90% 10% 區分 training testing
 - to add callback to ensure, hopefully, reach min requirement accuracy of at least 95%
+- 調了幾種都沒能在 epoch 30次內達到 accuracy 95%, 都在 90和91%之間起落。
+- 遇到GPU不給用, 看了說明, 升級為colab Pro用戶。
+- 
 
 ## 3. Natural Language Processing in TensorFlow
 - https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice
