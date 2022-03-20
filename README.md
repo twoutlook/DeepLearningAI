@@ -26,7 +26,8 @@
 - 訓練要運行多分鐘, 單次 epoch 100 杪, 這也是日後要注意的要點。
   - AlphaGo Zero 訓練 40 days X 4 TPU
     - https://en.wikipedia.org/wiki/AlphaGo_Zero#:~:text=Oren%20Etzioni%20of%20the%20Allen,days%2C%20on%20four%20TPUs%22.
-
+- 理論上, 應該設置 callbakcs, https://towardsdatascience.com/neural-network-with-tensorflow-how-to-stop-training-using-callback-5c8d575c18a9, 但在給的模板裡,這部份沒有列出, 不確定在直接給定的 15 epoch 是否能達到 a training accuracy of at least 95% and a validation accuracy of at least 80%.
+  - 95s 84ms/step - loss: 0.2808 - accuracy: 0.9053 - val_loss: 0.5656 - val_accuracy: 0.8032 
 
 ## 3. Natural Language Processing in TensorFlow
 - https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice
