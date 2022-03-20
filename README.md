@@ -23,7 +23,10 @@
   - 另有主題在 training and testing 之外還有 validation 
   - https://developers.google.com/machine-learning/crash-course/validation/video-lecture
 - 上述按比例, 先用隨機值來區分, 和預期的並不完成相同, 因為是隨機數, 大比例是對, 但不會保證額定值百分百一樣。先看提交是否可以通過。
-- 
+- 訓練要運行多分鐘, 這也是日後要注意的要點。AlphaGo Zero 訓練 40 days X 4 TPU
+- https://en.wikipedia.org/wiki/AlphaGo_Zero#:~:text=Oren%20Etzioni%20of%20the%20Allen,days%2C%20on%20four%20TPUs%22.
+
+
 ## 3. Natural Language Processing in TensorFlow
 - https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice
 
