@@ -34,6 +34,8 @@
 - 調了幾種都沒能在 epoch 30次內達到 accuracy 95%, 都在 90和91%之間起落。
 - 遇到GPU不給用, 看了說明, 升級為colab Pro用戶。
 - 多次嘗試, 終於找到解法。在這過程, 感受到這方面的調試模式。
+### Week2, 2022/3/21, 課程教了新的訓練方式, 測驗使用上週實做為基礎
+- 訓練越來越費時, 考慮升級Colab PRO 至 PRO+
 
 ## 3. Natural Language Processing in TensorFlow
 - https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice
